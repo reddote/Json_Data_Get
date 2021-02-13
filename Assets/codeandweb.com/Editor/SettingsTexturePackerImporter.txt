@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprites/club.tpsheet
+- Assets/Sprites/diamond.tpsheet
+- Assets/Sprites/heart.tpsheet
+- Assets/Sprites/spade.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprites/club.png
+- Assets/Sprites/diamond.png
+- Assets/Sprites/heart.png
+- Assets/Sprites/spade.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
