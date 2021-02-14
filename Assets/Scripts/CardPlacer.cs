@@ -32,6 +32,8 @@ public class CardPlacer : MonoBehaviour{
         }else if (trump == "spade"){
             lowID = 39;
             highID = 51;
+        } else{
+            Debug.LogError("incorrect data entry (Trump : " + trump+ " )");
         }
         
         foreach (var x in info){
